@@ -1,2 +1,13 @@
 /* Your styles here */
+header {
+    background-image: url(/images/banner.jpg);
+    height: 300px;
+    width: 250px;
+    background-size: auto;
+    
 
+}
+body {
+    text-align: center;
+    
+}
